@@ -1,0 +1,13 @@
+C:\Users\erpre\source\repos\GenericsRehearsel\GenericsRehearsel\bin\Debug\netcoreapp3.1\GenericsRehearsel.exe
+C:\Users\erpre\source\repos\GenericsRehearsel\GenericsRehearsel\bin\Debug\netcoreapp3.1\GenericsRehearsel.deps.json
+C:\Users\erpre\source\repos\GenericsRehearsel\GenericsRehearsel\bin\Debug\netcoreapp3.1\GenericsRehearsel.runtimeconfig.json
+C:\Users\erpre\source\repos\GenericsRehearsel\GenericsRehearsel\bin\Debug\netcoreapp3.1\GenericsRehearsel.runtimeconfig.dev.json
+C:\Users\erpre\source\repos\GenericsRehearsel\GenericsRehearsel\bin\Debug\netcoreapp3.1\GenericsRehearsel.dll
+C:\Users\erpre\source\repos\GenericsRehearsel\GenericsRehearsel\bin\Debug\netcoreapp3.1\GenericsRehearsel.pdb
+C:\Users\erpre\source\repos\GenericsRehearsel\GenericsRehearsel\obj\Debug\netcoreapp3.1\GenericsRehearsel.csprojAssemblyReference.cache
+C:\Users\erpre\source\repos\GenericsRehearsel\GenericsRehearsel\obj\Debug\netcoreapp3.1\GenericsRehearsel.AssemblyInfoInputs.cache
+C:\Users\erpre\source\repos\GenericsRehearsel\GenericsRehearsel\obj\Debug\netcoreapp3.1\GenericsRehearsel.AssemblyInfo.cs
+C:\Users\erpre\source\repos\GenericsRehearsel\GenericsRehearsel\obj\Debug\netcoreapp3.1\GenericsRehearsel.csproj.CoreCompileInputs.cache
+C:\Users\erpre\source\repos\GenericsRehearsel\GenericsRehearsel\obj\Debug\netcoreapp3.1\GenericsRehearsel.dll
+C:\Users\erpre\source\repos\GenericsRehearsel\GenericsRehearsel\obj\Debug\netcoreapp3.1\GenericsRehearsel.pdb
+C:\Users\erpre\source\repos\GenericsRehearsel\GenericsRehearsel\obj\Debug\netcoreapp3.1\GenericsRehearsel.genruntimeconfig.cache
