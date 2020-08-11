@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Net.NetworkInformation;
+using System.Runtime.CompilerServices;
 
 namespace GenericsRehearsel
 {
@@ -31,6 +33,22 @@ namespace GenericsRehearsel
             Rectangle<int> rec1 = new Rectangle<int>(2,5);
 
             Console.WriteLine(rec1.GetArea());
+
+            // delegate object
+
+            Arithmethic add, sub, addSub;
+
+            add = new Arithmethic(Add);
+            sub = new Arithmethic(Subtraction);
+            
+            addSub = add + sub;
+            //sub = addSub - add;
+
+            Console.WriteLine($"add 6 & 10 ");
+            add(6, 10);
+
+            Console.WriteLine($"add 20 & 10 ");
+            sub(20, 10);
 
             Console.ReadLine();
         }
@@ -64,5 +82,23 @@ namespace GenericsRehearsel
                 return "Rectangle Area : "+res.ToString();
             }
         }
+
+
+        //Delegates
+
+        public delegate void Arithmethic(double num1, double num2);
+
+        // this delegate can asign methods that are void and resive 2 params 
+
+        public static void Add(double num1, double num2) {
+            Console.WriteLine($" {num1} + {num2} = {num1 + num2} ");
+        }
+
+        public static void Subtraction(double num1, double num2)
+        {
+            Console.WriteLine($" {num1} - {num2} = {num1 - num2} ");
+        }
+
+
     }
 }
